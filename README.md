@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @larissa-fv, and i'm 18y.
-- 👀 I’m interested in technology, especially softaware or hardware. Just never ask me about networks, ok?! 😂
-- 🌱 I’m currently learning IT
-- 📫 How to reach me in LinkedIn @larsissafv-
+- 👀 I’m interested in technology, especially softaware and hardware. Just never ask me about networks, ok?! 😂
+- 🌱 I’m currently learning IT.
+- 📫 How to reach me in LinkedIn @larissafv-
 
 
 
