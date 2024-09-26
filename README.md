@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @larissa-fv, and i'm 18y.
-- 👀 I’m interested in technology, especially softaware and hardware.
-- 🌱 I’m currently learning IT.
-- 📫 How to reach me in LinkedIn @larissafv-
-
-
+- 👋 Hi, I’m @larissa-fv, and I'm 22 years old.
+- 👀 I’m passionate about technology, especially software, hardware, and database management.
+- 🌱 I’m currently learning IT and enhancing my skills in database hosting and information management.
+- 📫 You can reach me on LinkedIn: [@larissafv](https://www.linkedin.com/in/larissafv/)
 
 
 
