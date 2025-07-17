@@ -1,8 +1,10 @@
 # Olá, eu sou Larissa Ferreira Verissimo 👋
 
-![Banner](https://raw.githubusercontent.com/larissa-fv/larissa-fv/main/banner.png)
+🎓 **Graduada em Gestão da Tecnologia da Informação (PUCPR)**  
+📊 **Especialista em Indicadores, Projetos e Análise de Dados**  
+💡 Apaixonada por tecnologia, ciência de dados, programação e soluções inovadoras.
 
-## 🚀 Projetos em destaque
+##  Projetos em destaque
 
 | Projeto                              | Descrição                              | Link                                       |
 | ---------------------------------- | ------------------------------------ | ------------------------------------------ |
@@ -14,23 +16,34 @@
 
 ---
 
-## 🛠 Tecnologias & Ferramentas
+##  Tecnologias & Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+
 ---
 
-## 📊 Estatísticas GitHub
+## Competências Técnicas
+
+- **Linguagens:** Python, JavaScript, HTML, CSS  
+- **Análise de Dados:** Pandas, NumPy, Matplotlib, Seaborn, Plotly  
+- **Banco de Dados:** SQL, SQLite, PostgreSQL  
+- **Ferramentas:** JupyterLab, Power BI, Git & GitHub  
+- **Metodologias:** Análise Exploratória de Dados, Visualização Interativa, Ciência de Dados Aplicada
+
+---
+
+##  Estatísticas GitHub
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larissa-fv&layout=compact&theme=dark)
 ![Stats](https://github-readme-stats.vercel.app/api?username=larissa-fv&show_icons=true&theme=dark)
 
 ---
 
-## 📫 Contato
+##  Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/larissa-ferreira-verissimo)  
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/larissa-fv)
